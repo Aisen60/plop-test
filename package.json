@@ -1,0 +1,14 @@
+{
+  "name": "plop-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Aisen60/plop-test.git",
+  "author": "Aisen60 <caixusheng60@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "new": "plop"
+  },
+  "devDependencies": {
+    "plop": "^2.7.4"
+  }
+}
